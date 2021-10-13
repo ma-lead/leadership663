@@ -1,0 +1,19 @@
+---
+title: "LDRS663"
+author: "Colin Madland"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+url: https://ma-lead.github.io/ldrs-663
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown:gitbook,
+  set in the _output.yml file.
+biblio-style: apalike
+---
+
+# Course Description {-}
+
+Students will examine the theoretical foundations and professional practices of coaching learners in blended learning environments with an emphasis on facilitating transformational learning experiences. The intersection of adult education, educational technology, and international education thought is investigated in relation to the development of effective strategies for coaching learners within the emerging context of technologically distributed global higher education. Projects develop digital literacy skills, including the use of communication, collaboration and publishing tools; and media literacy, including knowledge of copyright, open licensing, and digital citizenship.
